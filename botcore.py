@@ -2,10 +2,10 @@ import requests
 
 
 ########## ACCOUNT CONFIG ##########
-ig_email = 'your@email.com'
-ig_username = 'username'
-ig_password = 'password'
-ig_firstname = 'firstname'
+ig_email = 'stickedupdrebooking@gmail.com'
+ig_username = 'nfl_southside_huncho'
+ig_password = 'Daondre13'
+ig_firstname = 'startavius'
 ########## ACCOUNT CONFIG ##########
 
 url = "https://www.instagram.com/accounts/web_create_ajax/"
